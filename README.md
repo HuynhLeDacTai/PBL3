@@ -1,2 +1,1 @@
-# PBL3
-An app for selling shoes by C#
+An app for selling shoes by C# - VERSION 1.0
